@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.30)
 
 project(ping-jitter)
 
-add_executable(ping-jitter src/main.cpp)
+add_executable(ping-jitter src/main.cpp )
